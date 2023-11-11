@@ -45,3 +45,12 @@ p{
     background-position: right;
     
 }
+
+.experi-area{
+    height: 500px;
+}
+.single-experience{
+    box-shadow: 10px 10px 50px gray;
+    border-radius: 5px;
+    height: 80%;
+}
