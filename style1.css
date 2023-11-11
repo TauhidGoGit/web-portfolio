@@ -1,0 +1,47 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px ;
+    font-family: 'Poppins', sans-serif;
+}
+.Name-highlight{
+    color: rgb(218, 25, 25);
+}
+.half-width1{
+    width:40%;
+    float:left  ;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width1 img{
+width: 100%;
+}
+.top-banner1{
+    
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 100px;
+}
+.link1{
+    text-decoration: none;
+    background-color: rgb(219, 27, 91);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(45deg, rgb(209, 101, 101),rgb(247, 50, 82));
+}
+p{
+    color:black ;
+}
+.shelby-group{
+    background-image: url(images/bg2.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
